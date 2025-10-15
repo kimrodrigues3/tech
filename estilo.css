@@ -43,7 +43,7 @@ nav a{
     background-color:rgb(86, 122, 153);
     color: white;
     text-align: center;
-    padding: 80px 20px;
+    padding: 30px;
 }
 
 .banner button{
@@ -61,5 +61,23 @@ nav a{
     width: 300px;
     border-radius: 10px;
 }
+
+footer{
+    background-color: #222;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    margin-top: auto;
+}
+
+.kim{
+    width: 100%; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 8px; 
+    margin-bottom: 15px; 
+}
+
 
 
