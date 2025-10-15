@@ -39,3 +39,27 @@ nav a{
     text-decoration: none;
 }
 
+.banner{
+    background-color:rgb(86, 122, 153);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.banner button{
+    background-color: rgb(224, 197, 197);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+   cursor: pointer;
+}
+
+.cursos{
+    background-color: rgb(250, 229, 229);
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+
